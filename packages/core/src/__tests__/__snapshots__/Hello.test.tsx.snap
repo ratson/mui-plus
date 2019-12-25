@@ -1,9 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`Hello Say Hello 1`] = `
-<div
-  className="MuiBox-root MuiBox-root-2"
->
-  Hello: 
-</div>
-`;

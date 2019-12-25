@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SpeechBubble render children 1`] = `
+<div
+  className="MuiBox-root MuiBox-root-4 Styled(MuiBox)-root-1 Styled(MuiBox)-root-2"
+>
+  Hello World
+</div>
+`;

@@ -9,6 +9,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "sideEffects": false,
   "files": [
     "lib"
   ],
