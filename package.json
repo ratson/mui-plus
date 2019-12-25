@@ -1,0 +1,48 @@
+{
+  "name": "mui-plus-monorepo",
+  "private": true,
+  "scripts": {
+    "prestart": "run-s build",
+    "start": "run-p start:*",
+    "start:stories": "lerna run start --stream --scope=@mui-plus/stories",
+    "start:watch": "tsc --build --watch",
+    "pretest": "run-s build",
+    "test": "jest",
+    "test:stories": "lerna run test --stream --scope=@mui-plus/stories",
+    "build": "tsc --build",
+    "build:stories": "lerna run build --stream --scope=@mui-plus/stories",
+    "clean": "rimraf packages/*/{tsconfig.tsbuildinfo,lib,dist}"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4",
+    "@commitlint/cli": "^8.2.0",
+    "@commitlint/config-conventional": "^8.2.0",
+    "@commitlint/config-lerna-scopes": "^8.2.0",
+    "@material-ui/core": "^4.8.1",
+    "@types/jest": "^24.0.24",
+    "@types/react": "^16.9.17",
+    "@types/react-dom": "^16.9.4",
+    "@types/react-test-renderer": "^16.9.1",
+    "babel-jest": "^24.9.0",
+    "husky": "^3.1.0",
+    "jest": "^24.9.0",
+    "lerna": "^3.19.0",
+    "npm-run-all": "^4.1.5",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-test-renderer": "^16.12.0",
+    "rimraf": "^3.0.0",
+    "ts-jest": "^24.2.0",
+    "typescript": "^3.7.4"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
