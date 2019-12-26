@@ -1,6 +1,6 @@
 {
   "name": "@mui-plus/core",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -13,13 +13,11 @@
   "files": [
     "lib"
   ],
-  "dependencies": {},
   "peerDependencies": {
     "@material-ui/core": "^4.8.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "tsc -w --preserveWatchOutput"
   },
