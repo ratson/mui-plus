@@ -1,7 +1,7 @@
 {
   "name": "@mui-plus/stories",
   "private": true,
-  "version": "0.1.2",
+  "version": "0.1.3",
   "scripts": {
     "start": "cross-env TS_NODE_PROJECT=\"tsconfig.webpack.json\" start-storybook -p 8080",
     "test": "run-s build",
@@ -9,7 +9,7 @@
     "clean": "rimraf tsconfig.tsbuildinfo lib dist"
   },
   "dependencies": {
-    "@mui-plus/core": "^0.1.2"
+    "@mui-plus/core": "^0.1.3"
   },
   "peerDependencies": {
     "@material-ui/core": "^4.8.1",

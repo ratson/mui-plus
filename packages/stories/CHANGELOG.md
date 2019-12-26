@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3](http://github_ratson:ratson/mui-plus/compare/@mui-plus/stories@0.1.2...@mui-plus/stories@0.1.3) (2019-12-26)
+
+**Note:** Version bump only for package @mui-plus/stories
+
+
+
+
+
 ## <small>0.1.2 (2019-12-26)</small>
 
 **Note:** Version bump only for package @mui-plus/stories
