@@ -2,7 +2,7 @@
   "name": "@mui-plus/core",
   "version": "0.1.2",
   "description": "",
-  "main": "./lib/index.js",
+  "main": "./dist/index.js",
   "module": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "repository": "ratson/mui-plus",
@@ -12,6 +12,7 @@
   },
   "sideEffects": false,
   "files": [
+    "dist",
     "lib"
   ],
   "peerDependencies": {

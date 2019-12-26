@@ -6,5 +6,5 @@
     "rootDir": "src",
     "baseUrl": "."
   },
-  "references": []
+  "references": [{ "path": "./tsconfig-dist.json" }]
 }
