@@ -22,5 +22,12 @@
   "devDependencies": {},
   "scripts": {
     "start": "tsc -w --preserveWatchOutput"
-  }
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "material design",
+    "material-ui",
+    "mui"
+  ]
 }
