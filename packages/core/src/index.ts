@@ -1,2 +1,5 @@
 export { default as Marquee } from './Marquee'
-export { default as SpeechBubble } from './SpeechBubble'
+export {
+  default as SpeechBubble,
+  useStyles as useSpeechBubbleStyles
+} from './SpeechBubble'
