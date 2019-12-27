@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/ratson/mui-plus/compare/@mui-plus/core@0.1.3...@mui-plus/core@0.2.0) (2019-12-27)
+
+
+### Bug Fixes
+
+* **core:** type SpeechBubble props ([4e5c40d](https://github.com/ratson/mui-plus/commit/4e5c40d8750e9bf68fc41b868be581d2347caa6c))
+
+
+### Features
+
+* **core:** add Marquee ([e3771c4](https://github.com/ratson/mui-plus/commit/e3771c4409b01f3f62f0be441a82efe5ecc7e77e))
+
+
+
+
+
 ## [0.1.3](https://github.com/ratson/mui-plus/compare/@mui-plus/core@0.1.2...@mui-plus/core@0.1.3) (2019-12-26)
 
 **Note:** Version bump only for package @mui-plus/core
