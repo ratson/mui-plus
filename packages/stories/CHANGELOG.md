@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](http://github_ratson:ratson/mui-plus/compare/@mui-plus/stories@0.2.0...@mui-plus/stories@0.3.0) (2019-12-27)
+
+
+### Features
+
+* **core:** export useSpeechBubbleStyles ([7248e07](http://github_ratson:ratson/mui-plus/commits/7248e07f55e006944aea1bdbec8497dddcdfaee2))
+
+
+
+
+
 # [0.2.0](http://github_ratson:ratson/mui-plus/compare/@mui-plus/stories@0.1.3...@mui-plus/stories@0.2.0) (2019-12-27)
 
 
