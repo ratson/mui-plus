@@ -34,6 +34,6 @@ const SpeechBubble = styled(Box)(({ theme, ...x }) => {
       borderTopColor: backgroundColor
     }
   }
-}) as React.FC<SpeechBubbleProps>
+}) as any as React.FC<SpeechBubbleProps>
 
 export default SpeechBubble
