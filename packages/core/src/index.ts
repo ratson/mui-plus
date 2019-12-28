@@ -1,4 +1,5 @@
 export { default as Marquee } from './Marquee'
+export { default as ResponsiveImg } from './ResponsiveImg'
 export {
   default as SpeechBubble,
   useStyles as useSpeechBubbleStyles
