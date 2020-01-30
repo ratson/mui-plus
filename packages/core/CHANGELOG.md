@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/ratson/mui-plus/compare/@mui-plus/core@0.3.0...@mui-plus/core@0.4.0) (2020-01-30)
+
+
+### Features
+
+* **core:** add Iframe ([cbfbc5f](https://github.com/ratson/mui-plus/commit/cbfbc5f9fdc8ac0acb72b5a0e0b857fdce304d29))
+* **core:** add ResponsiveImg ([098f840](https://github.com/ratson/mui-plus/commit/098f840b1802d87c62ae15ddf4abcd47cfd2833c))
+
+
+
+
+
 # [0.3.0](https://github.com/ratson/mui-plus/compare/@mui-plus/core@0.2.0...@mui-plus/core@0.3.0) (2019-12-27)
 
 
