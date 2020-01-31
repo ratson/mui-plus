@@ -20,9 +20,9 @@ type Props = {
 >
 
 const Iframe: React.FC<Props> = ({
+  className,
   classes,
   fullWidth,
-  className,
   ...props
 }) => {
   return (
