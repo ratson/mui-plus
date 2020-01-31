@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/ratson/mui-plus/compare/@mui-plus/core@0.4.0...@mui-plus/core@0.5.0) (2020-01-31)
+
+
+### Features
+
+* **core:** add AspectRatio ([deb6058](https://github.com/ratson/mui-plus/commit/deb60582617d36809ccc510dc0d59d94973cb0ab))
+
+
+
+
+
 # [0.4.0](https://github.com/ratson/mui-plus/compare/@mui-plus/core@0.3.0...@mui-plus/core@0.4.0) (2020-01-30)
 
 
